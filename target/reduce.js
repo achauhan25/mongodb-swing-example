@@ -1,0 +1,1 @@
+function(key, values) {sumAmt = 0;for (var idx = 0; idx < values.length; idx++) {sumAmt += 10;} return sumAmt;};

@@ -1,0 +1,1 @@
+function () {	for(var i=0; i<this.langGenreTags.length;i++)	{emit(this.langGenreTags[i], this.totalCollctn);	}}
